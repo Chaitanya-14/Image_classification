@@ -1,2 +1,3 @@
 # Image_classification
-Using Pytorch
+This is the project using py torch image classification
+
